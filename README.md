@@ -1,2 +1,2 @@
 # pixel_art
-Holds my pixel art.
+Holds some of my pixel art.
